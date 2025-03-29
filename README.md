@@ -31,6 +31,11 @@
 ![Flyway](https://img.shields.io/badge/-Flyway-CB0505?style=flat&logo=flyway&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-5100FF?style=flat&logo=figma&logoColor=white)
 
+## 🎓 Courses & Certifications
+
+![Alura](https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
+
 ## 📊 My stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
