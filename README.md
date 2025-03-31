@@ -51,6 +51,6 @@
     <img src="https://img.shields.io/badge/-jenniferheloisareetz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jenniferheloisareetz@gmail.com" />
   </a>
     <a href="https://www.linkedin.com/in/jennifer-reetz-827b27318/">
-    <img src="https://img.shields.io/badge/-Jennifer-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennifer-reetz-827b27318/" />
-  </a>
+    <img src="https://img.shields.io/badge/-Jennifer-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
 </p>
