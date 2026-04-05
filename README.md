@@ -34,15 +34,12 @@
 
 ## 📊 My stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JenniferReetz&count_private=true&show_icons=true&theme=tokyonight&custom_title=Github%20Status" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferReetz&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
-  </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenniferReetz&theme=tokyonight" />
-  </a>
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenniferReetz&theme=tokyonight" />
+</a>
+  <a href="https://ghstats.dev">
+  <img height=200 align="center" src="https://ghstats.dev/api/card?username=JenniferReetz&theme=tokyonight" />
+</a>
 </p>
 
 ## 📱 Where to find me
