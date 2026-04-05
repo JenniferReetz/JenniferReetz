@@ -34,11 +34,8 @@
 
 ## 📊 My stats
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenniferReetz&theme=tokyonight" />
-</a>
-  <a href="https://ghstats.dev">
-  <img height=200 align="center" src="https://ghstats.dev/api/card?username=JenniferReetz&theme=tokyonight" />
 </a>
 </p>
 
