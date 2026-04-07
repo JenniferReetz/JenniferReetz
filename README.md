@@ -20,7 +20,6 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-71BE36?style=flat&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![JUnit5](https://img.shields.io/badge/-JUnit5-2DA543?style=flat&logo=junit5&logoColor=white)
 
 ### 📋 Others
 
@@ -35,7 +34,7 @@
 ## 📊 My stats
 <p align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenniferReetz&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenniferReetz&theme=material_palenight" />
 </a>
 </p>
 
