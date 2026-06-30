@@ -35,8 +35,6 @@
 <p align="center">
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenniferReetz&theme=material_palenight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JenniferReetz&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferReetz&layout=compact&theme=tokyonight" />
 </a>
 </p>
 
